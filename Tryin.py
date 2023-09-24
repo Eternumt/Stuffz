@@ -1,5 +1,8 @@
 def add(a,b):
     return a+b
 
-sumz = add(2,3)
-print(sumz)
+def multiply(a,b):
+    return a*b
+
+def divide(a,b):
+    return a/b
